@@ -1,5 +1,5 @@
 # Practicing_C
-## ========== 1. ==========
+## ========== 1. learning_c.c ==========
 ### My learning philosophy: 
 1. Practice the syntax of the new language and test my understanding of it by putting it into various situations; 
 2. Integrate what I have leant with the new piece I'm learning to improve my understanding and view of the new language; 
