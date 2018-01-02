@@ -12,8 +12,8 @@
 
 *** 
 
-## ========== 2. ==========
-
+## ========== 2. Planck/dBdT.c ==========
+This program is to calculate the first derivative of Planck function and generate its values at various positions for later plot.
 
 
 ***
