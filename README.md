@@ -23,4 +23,8 @@ This code is the core part of obtaining the final FAC data for each transition. 
 
 ***
 
-## ========== 4. 
+## ========== 4. Combine_FAC_RM_454/{\*}
+This code is the core part of adding FAC by RM to get the final photoionization cross section. The other codes are in 
+Bash/Combine_FAC_RM_454.
+
+***
